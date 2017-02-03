@@ -1,0 +1,21 @@
+{
+  "name": "gallery",
+  "version": "1.0.0",
+  "description": "Photo gallery",
+  "main": "webpack.config.js",
+  "bin": {
+    "gallery": "app.bundle.js"
+  },
+  "dependencies": {
+    "webpack": "^1.13.2"
+  },
+  "devDependencies": {
+    "css-loader": "^0.25.0",
+    "node-sass": "^3.10.0",
+    "sass-loader": "^4.0.2",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.2"
+  },
+  "author": "Ryan Schultz",
+  "license": "ISC"
+}
